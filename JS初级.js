@@ -145,3 +145,9 @@ console.log(b1)
 console.log(c1)
 
 
+/*
+可迭代对象
+自定义可迭代对象
+生成器
+ */
+
